@@ -1,0 +1,786 @@
+[01.10.2011 03:52:49,798] ************************** Application started *******************************
+[01.10.2011 03:52:53,856] --------------------------- Simulation started ----------------------------
+[01.10.2011 03:52:53,860] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[01.10.2011 03:52:53,873] Human ¹0 has been created on 4 floor, going to 2 floor
+[01.10.2011 03:52:53,877] Human ¹1 has been created on 3 floor, going to 2 floor
+[01.10.2011 03:52:53,878] Human ¹2 has been created on 4 floor, going to 1 floor
+[01.10.2011 03:52:53,878] Human ¹3 has been created on 1 floor, going to 4 floor
+[01.10.2011 03:52:53,879] Human ¹4 has been created on 4 floor, going to 1 floor
+[01.10.2011 03:52:53,879] Human ¹5 has been created on 3 floor, going to 1 floor
+[01.10.2011 03:52:53,879] Human ¹6 has been created on 3 floor, going to 2 floor
+[01.10.2011 03:52:53,879] Human ¹7 has been created on 2 floor, going to 4 floor
+[01.10.2011 03:52:53,880] Human ¹8 has been created on 4 floor, going to 2 floor
+[01.10.2011 03:52:53,880] Human ¹9 has been created on 3 floor, going to 2 floor
+[01.10.2011 03:52:53,880] Human ¹10 has been created on 3 floor, going to 2 floor
+[01.10.2011 03:52:53,880] Human ¹11 has been created on 4 floor, going to 3 floor
+[01.10.2011 03:52:53,880] Human ¹12 has been created on 2 floor, going to 4 floor
+[01.10.2011 03:52:53,881] Human ¹13 has been created on 1 floor, going to 3 floor
+[01.10.2011 03:52:53,881] Human ¹14 has been created on 3 floor, going to 2 floor
+[01.10.2011 03:52:53,881] Human ¹15 has been created on 4 floor, going to 2 floor
+[01.10.2011 03:52:53,881] Human ¹16 has been created on 4 floor, going to 1 floor
+[01.10.2011 03:52:53,882] Human ¹17 has been created on 4 floor, going to 2 floor
+[01.10.2011 03:52:53,882] Human ¹18 has been created on 3 floor, going to 2 floor
+[01.10.2011 03:52:53,882] Human ¹19 has been created on 2 floor, going to 4 floor
+[01.10.2011 03:52:53,889] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[01.10.2011 03:52:53,991] Human ¹3  has entered into the lift
+[01.10.2011 03:52:54,128] Human ¹13  has entered into the lift
+[01.10.2011 03:52:54,281] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[01.10.2011 03:52:54,435] Human ¹7  has entered into the lift
+[01.10.2011 03:52:54,627] Human ¹12  has entered into the lift
+[01.10.2011 03:52:54,751] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[01.10.2011 03:52:54,906] Human ¹13 left the lift
+[01.10.2011 03:52:55,004] Human ¹1  has entered into the lift
+[01.10.2011 03:52:55,124] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[01.10.2011 03:52:55,333] Human ¹3 left the lift
+[01.10.2011 03:52:55,480] Human ¹7 left the lift
+[01.10.2011 03:52:55,618] Human ¹12 left the lift
+[01.10.2011 03:52:55,659] Human ¹0  has entered into the lift
+[01.10.2011 03:52:55,800] Human ¹2  has entered into the lift
+[01.10.2011 03:52:55,994] Human ¹4  has entered into the lift
+[01.10.2011 03:52:56,108] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[01.10.2011 03:52:56,220] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[01.10.2011 03:52:56,421] Human ¹0 left the lift
+[01.10.2011 03:52:56,613] Human ¹1 left the lift
+[01.10.2011 03:52:56,658] Human ¹19  has entered into the lift
+[01.10.2011 03:52:56,775] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[01.10.2011 03:52:56,882] Human ¹2 left the lift
+[01.10.2011 03:52:56,973] Human ¹4 left the lift
+[01.10.2011 03:52:57,085] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[01.10.2011 03:52:57,198] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[01.10.2011 03:52:57,292] Human ¹5  has entered into the lift
+[01.10.2011 03:52:57,440] Human ¹6  has entered into the lift
+[01.10.2011 03:52:57,631] Human ¹9  has entered into the lift
+[01.10.2011 03:52:57,749] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[01.10.2011 03:52:58,077] Human ¹19 left the lift
+[01.10.2011 03:52:58,124] Human ¹8  has entered into the lift
+[01.10.2011 03:52:58,245] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[01.10.2011 03:52:58,364] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[01.10.2011 03:52:58,553] Human ¹6 left the lift
+[01.10.2011 03:52:58,880] Human ¹8 left the lift
+[01.10.2011 03:52:59,130] Human ¹9 left the lift
+[01.10.2011 03:52:59,248] --------- <Turn 13> ----- Lift on the 1 floor ------------
+[01.10.2011 03:52:59,479] Human ¹5 left the lift
+[01.10.2011 03:52:59,592] --------- <Turn 14> ----- Lift on the 2 floor ------------
+[01.10.2011 03:52:59,705] --------- <Turn 15> ----- Lift on the 3 floor ------------
+[01.10.2011 03:52:59,746] Human ¹10  has entered into the lift
+[01.10.2011 03:52:59,838] Human ¹14  has entered into the lift
+[01.10.2011 03:52:59,980] Human ¹18  has entered into the lift
+[01.10.2011 03:53:00,092] --------- <Turn 16> ----- Lift on the 4 floor ------------
+[01.10.2011 03:53:00,283] Human ¹11  has entered into the lift
+[01.10.2011 03:53:00,401] --------- <Turn 17> ----- Lift on the 3 floor ------------
+[01.10.2011 03:53:00,493] Human ¹11 left the lift
+[01.10.2011 03:53:00,613] --------- <Turn 18> ----- Lift on the 2 floor ------------
+[01.10.2011 03:53:01,024] Human ¹10 left the lift
+[01.10.2011 03:53:01,425] Human ¹14 left the lift
+[01.10.2011 03:53:01,812] Human ¹18 left the lift
+[01.10.2011 03:53:01,926] --------- <Turn 19> ----- Lift on the 1 floor ------------
+[01.10.2011 03:53:02,038] --------- <Turn 20> ----- Lift on the 2 floor ------------
+[01.10.2011 03:53:02,150] --------- <Turn 21> ----- Lift on the 3 floor ------------
+[01.10.2011 03:53:02,262] --------- <Turn 22> ----- Lift on the 4 floor ------------
+[01.10.2011 03:53:02,303] Human ¹15  has entered into the lift
+[01.10.2011 03:53:02,394] Human ¹16  has entered into the lift
+[01.10.2011 03:53:02,535] Human ¹17  has entered into the lift
+[01.10.2011 03:53:02,648] --------- <Turn 23> ----- Lift on the 3 floor ------------
+[01.10.2011 03:53:02,762] --------- <Turn 24> ----- Lift on the 2 floor ------------
+[01.10.2011 03:53:03,289] Human ¹15 left the lift
+[01.10.2011 03:53:03,735] Human ¹17 left the lift
+[01.10.2011 03:53:03,851] --------- <Turn 25> ----- Lift on the 1 floor ------------
+[01.10.2011 03:53:04,126] Human ¹16 left the lift
+[01.10.2011 03:53:04,126] ----------- Simulation is finished. Elapsed time: 10.237 sec ------------------
+[01.10.2011 03:53:44,144] ************************* Application is closed ******************************
+[07.10.2011 23:02:09,768] ************************** Application started *******************************
+[07.10.2011 23:02:13,101] --------------------------- Simulation started ----------------------------
+[07.10.2011 23:02:13,109] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[07.10.2011 23:02:13,123] Human ¹0 has been created on 4 floor, going to 2 floor
+[07.10.2011 23:02:13,127] Human ¹1 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:02:13,128] Human ¹2 has been created on 3 floor, going to 1 floor
+[07.10.2011 23:02:13,128] Human ¹3 has been created on 3 floor, going to 4 floor
+[07.10.2011 23:02:13,128] Human ¹4 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:02:13,129] Human ¹5 has been created on 3 floor, going to 1 floor
+[07.10.2011 23:02:13,130] Human ¹6 has been created on 3 floor, going to 4 floor
+[07.10.2011 23:02:13,131] Human ¹7 has been created on 1 floor, going to 3 floor
+[07.10.2011 23:02:13,131] Human ¹8 has been created on 2 floor, going to 1 floor
+[07.10.2011 23:02:13,131] Human ¹9 has been created on 2 floor, going to 1 floor
+[07.10.2011 23:02:13,131] Human ¹10 has been created on 1 floor, going to 3 floor
+[07.10.2011 23:02:13,132] Human ¹11 has been created on 1 floor, going to 2 floor
+[07.10.2011 23:02:13,132] Human ¹12 has been created on 1 floor, going to 4 floor
+[07.10.2011 23:02:13,132] Human ¹13 has been created on 3 floor, going to 4 floor
+[07.10.2011 23:02:13,132] Human ¹14 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:02:13,133] Human ¹15 has been created on 1 floor, going to 4 floor
+[07.10.2011 23:02:13,133] Human ¹16 has been created on 2 floor, going to 3 floor
+[07.10.2011 23:02:13,133] Human ¹17 has been created on 2 floor, going to 4 floor
+[07.10.2011 23:02:13,133] Human ¹18 has been created on 3 floor, going to 1 floor
+[07.10.2011 23:02:13,134] Human ¹19 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:02:13,148] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[07.10.2011 23:02:13,972] Human ¹7  has entered into the lift
+[07.10.2011 23:02:15,616] Human ¹10  has entered into the lift
+[07.10.2011 23:02:17,593] Human ¹11  has entered into the lift
+[07.10.2011 23:02:20,271] Human ¹12  has entered into the lift
+[07.10.2011 23:02:21,850] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[07.10.2011 23:02:23,264] Human ¹11 left the lift
+[07.10.2011 23:02:25,246] Human ¹8  has entered into the lift
+[07.10.2011 23:02:26,819] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[07.10.2011 23:02:29,642] Human ¹7 left the lift
+[07.10.2011 23:02:32,317] Human ¹10 left the lift
+[07.10.2011 23:02:32,894] Human ¹1  has entered into the lift
+[07.10.2011 23:02:34,169] Human ¹2  has entered into the lift
+[07.10.2011 23:02:35,739] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[07.10.2011 23:02:36,453] Human ¹12 left the lift
+[07.10.2011 23:02:39,128] Human ¹0  has entered into the lift
+[07.10.2011 23:02:40,005] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[07.10.2011 23:02:40,119] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[07.10.2011 23:02:40,212] Human ¹0 left the lift
+[07.10.2011 23:02:40,493] Human ¹1 left the lift
+[07.10.2011 23:02:40,535] Human ¹9  has entered into the lift
+[07.10.2011 23:02:40,726] Human ¹16  has entered into the lift
+[07.10.2011 23:02:40,838] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[07.10.2011 23:02:40,989] Human ¹2 left the lift
+[07.10.2011 23:02:41,130] Human ¹8 left the lift
+[07.10.2011 23:02:41,411] Human ¹9 left the lift
+[07.10.2011 23:02:41,452] Human ¹15  has entered into the lift
+[07.10.2011 23:02:41,564] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[07.10.2011 23:02:41,655] Human ¹17  has entered into the lift
+[07.10.2011 23:02:41,768] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[07.10.2011 23:02:41,899] Human ¹16 left the lift
+[07.10.2011 23:02:42,042] Human ¹3  has entered into the lift
+[07.10.2011 23:02:42,236] Human ¹4  has entered into the lift
+[07.10.2011 23:02:42,348] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[07.10.2011 23:02:42,493] Human ¹3 left the lift
+[07.10.2011 23:02:42,774] Human ¹15 left the lift
+[07.10.2011 23:02:43,045] Human ¹17 left the lift
+[07.10.2011 23:02:43,157] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[07.10.2011 23:02:43,200] Human ¹5  has entered into the lift
+[07.10.2011 23:02:43,291] Human ¹6  has entered into the lift
+[07.10.2011 23:02:43,434] Human ¹13  has entered into the lift
+[07.10.2011 23:02:43,549] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[07.10.2011 23:02:44,492] Human ¹4 left the lift
+[07.10.2011 23:02:45,391] -------------Simulation is terminated. Elapsed time: 32.243 sec ------------------
+[07.10.2011 23:02:51,685] --------------------------- Simulation started ----------------------------
+[07.10.2011 23:02:51,686] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[07.10.2011 23:02:51,693] Human ¹0 has been created on 1 floor, going to 3 floor
+[07.10.2011 23:02:51,693] Human ¹1 has been created on 2 floor, going to 1 floor
+[07.10.2011 23:02:51,693] Human ¹2 has been created on 1 floor, going to 2 floor
+[07.10.2011 23:02:51,694] Human ¹3 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:02:51,694] Human ¹4 has been created on 3 floor, going to 1 floor
+[07.10.2011 23:02:51,694] Human ¹5 has been created on 1 floor, going to 2 floor
+[07.10.2011 23:02:51,694] Human ¹6 has been created on 1 floor, going to 3 floor
+[07.10.2011 23:02:51,694] Human ¹7 has been created on 3 floor, going to 4 floor
+[07.10.2011 23:02:51,695] Human ¹8 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:02:51,695] Human ¹9 has been created on 1 floor, going to 4 floor
+[07.10.2011 23:02:51,696] Human ¹10 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:02:51,696] Human ¹11 has been created on 4 floor, going to 2 floor
+[07.10.2011 23:02:51,696] Human ¹12 has been created on 4 floor, going to 1 floor
+[07.10.2011 23:02:51,696] Human ¹13 has been created on 2 floor, going to 3 floor
+[07.10.2011 23:02:51,696] Human ¹14 has been created on 2 floor, going to 1 floor
+[07.10.2011 23:02:51,697] Human ¹15 has been created on 1 floor, going to 4 floor
+[07.10.2011 23:02:51,697] Human ¹16 has been created on 1 floor, going to 3 floor
+[07.10.2011 23:02:51,698] Human ¹17 has been created on 4 floor, going to 2 floor
+[07.10.2011 23:02:51,698] Human ¹18 has been created on 3 floor, going to 4 floor
+[07.10.2011 23:02:51,698] Human ¹19 has been created on 3 floor, going to 1 floor
+[07.10.2011 23:02:51,716] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[07.10.2011 23:02:52,045] Human ¹0  has entered into the lift
+[07.10.2011 23:02:52,774] Human ¹2  has entered into the lift
+[07.10.2011 23:02:53,902] Human ¹5  has entered into the lift
+[07.10.2011 23:02:55,430] Human ¹6  has entered into the lift
+[07.10.2011 23:02:56,328] -------------Simulation is terminated. Elapsed time: 4.612 sec ------------------
+[07.10.2011 23:02:56,469] --------------------------- Simulation started ----------------------------
+[07.10.2011 23:02:56,470] ----------- Lift capacity: 4, humans: 20, floors: 5 -----------
+[07.10.2011 23:02:56,498] Human ¹0 has been created on 5 floor, going to 1 floor
+[07.10.2011 23:02:56,499] Human ¹1 has been created on 1 floor, going to 5 floor
+[07.10.2011 23:02:56,499] Human ¹2 has been created on 1 floor, going to 3 floor
+[07.10.2011 23:02:56,499] Human ¹3 has been created on 2 floor, going to 3 floor
+[07.10.2011 23:02:56,499] Human ¹4 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:02:56,500] Human ¹5 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:02:56,500] Human ¹6 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:02:56,500] Human ¹7 has been created on 5 floor, going to 3 floor
+[07.10.2011 23:02:56,500] Human ¹8 has been created on 2 floor, going to 1 floor
+[07.10.2011 23:02:56,500] Human ¹9 has been created on 3 floor, going to 1 floor
+[07.10.2011 23:02:56,500] Human ¹10 has been created on 1 floor, going to 5 floor
+[07.10.2011 23:02:56,501] Human ¹11 has been created on 4 floor, going to 1 floor
+[07.10.2011 23:02:56,501] Human ¹12 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:02:56,501] Human ¹13 has been created on 2 floor, going to 1 floor
+[07.10.2011 23:02:56,501] Human ¹14 has been created on 1 floor, going to 2 floor
+[07.10.2011 23:02:56,501] Human ¹15 has been created on 2 floor, going to 1 floor
+[07.10.2011 23:02:56,501] Human ¹16 has been created on 3 floor, going to 1 floor
+[07.10.2011 23:02:56,502] Human ¹17 has been created on 3 floor, going to 5 floor
+[07.10.2011 23:02:56,502] Human ¹18 has been created on 5 floor, going to 2 floor
+[07.10.2011 23:02:56,502] Human ¹19 has been created on 2 floor, going to 4 floor
+[07.10.2011 23:02:56,531] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[07.10.2011 23:02:56,860] Human ¹1  has entered into the lift
+[07.10.2011 23:02:57,588] Human ¹2  has entered into the lift
+[07.10.2011 23:02:58,717] Human ¹10  has entered into the lift
+[07.10.2011 23:03:00,245] Human ¹14  has entered into the lift
+[07.10.2011 23:03:00,965] -------------Simulation is terminated. Elapsed time: 4.434 sec ------------------
+[07.10.2011 23:03:11,661] --------------------------- Simulation started ----------------------------
+[07.10.2011 23:03:11,662] ----------- Lift capacity: 5, humans: 30, floors: 5 -----------
+[07.10.2011 23:03:11,668] Human ¹0 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:03:11,668] Human ¹1 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:03:11,668] Human ¹2 has been created on 5 floor, going to 2 floor
+[07.10.2011 23:03:11,669] Human ¹3 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:03:11,669] Human ¹4 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:03:11,669] Human ¹5 has been created on 2 floor, going to 3 floor
+[07.10.2011 23:03:11,669] Human ¹6 has been created on 4 floor, going to 2 floor
+[07.10.2011 23:03:11,669] Human ¹7 has been created on 4 floor, going to 3 floor
+[07.10.2011 23:03:11,669] Human ¹8 has been created on 2 floor, going to 1 floor
+[07.10.2011 23:03:11,670] Human ¹9 has been created on 4 floor, going to 5 floor
+[07.10.2011 23:03:11,670] Human ¹10 has been created on 5 floor, going to 1 floor
+[07.10.2011 23:03:11,670] Human ¹11 has been created on 1 floor, going to 3 floor
+[07.10.2011 23:03:11,670] Human ¹12 has been created on 5 floor, going to 1 floor
+[07.10.2011 23:03:11,670] Human ¹13 has been created on 3 floor, going to 5 floor
+[07.10.2011 23:03:11,670] Human ¹14 has been created on 3 floor, going to 5 floor
+[07.10.2011 23:03:11,671] Human ¹15 has been created on 4 floor, going to 2 floor
+[07.10.2011 23:03:11,671] Human ¹16 has been created on 3 floor, going to 4 floor
+[07.10.2011 23:03:11,671] Human ¹17 has been created on 4 floor, going to 5 floor
+[07.10.2011 23:03:11,671] Human ¹18 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:03:11,671] Human ¹19 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:03:11,671] Human ¹20 has been created on 1 floor, going to 3 floor
+[07.10.2011 23:03:11,671] Human ¹21 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:03:11,672] Human ¹22 has been created on 5 floor, going to 3 floor
+[07.10.2011 23:03:11,672] Human ¹23 has been created on 1 floor, going to 4 floor
+[07.10.2011 23:03:11,672] Human ¹24 has been created on 2 floor, going to 3 floor
+[07.10.2011 23:03:11,672] Human ¹25 has been created on 3 floor, going to 5 floor
+[07.10.2011 23:03:11,672] Human ¹26 has been created on 3 floor, going to 1 floor
+[07.10.2011 23:03:11,672] Human ¹27 has been created on 1 floor, going to 2 floor
+[07.10.2011 23:03:11,673] Human ¹28 has been created on 4 floor, going to 5 floor
+[07.10.2011 23:03:11,673] Human ¹29 has been created on 3 floor, going to 2 floor
+[07.10.2011 23:03:11,712] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[07.10.2011 23:03:12,041] Human ¹11  has entered into the lift
+[07.10.2011 23:03:12,692] Human ¹20  has entered into the lift
+[07.10.2011 23:03:13,660] Human ¹23  has entered into the lift
+[07.10.2011 23:03:14,950] Human ¹27  has entered into the lift
+[07.10.2011 23:03:15,886] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[07.10.2011 23:03:16,037] ************************* Application is closed ******************************
+[18.10.2011 00:40:32,808] ************************** Application started *******************************
+[18.10.2011 00:40:36,274] --------------------------- Simulation started ----------------------------
+[18.10.2011 00:40:36,278] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[18.10.2011 00:40:36,295] Human ¹0 has been created on 4 floor, going to 2 floor
+[18.10.2011 00:40:36,301] Human ¹1 has been created on 3 floor, going to 2 floor
+[18.10.2011 00:40:36,302] Human ¹2 has been created on 4 floor, going to 2 floor
+[18.10.2011 00:40:36,302] Human ¹3 has been created on 2 floor, going to 3 floor
+[18.10.2011 00:40:36,303] Human ¹4 has been created on 3 floor, going to 4 floor
+[18.10.2011 00:40:36,304] Human ¹5 has been created on 2 floor, going to 4 floor
+[18.10.2011 00:40:36,306] Human ¹6 has been created on 1 floor, going to 4 floor
+[18.10.2011 00:40:36,307] Human ¹7 has been created on 1 floor, going to 4 floor
+[18.10.2011 00:40:36,307] Human ¹8 has been created on 4 floor, going to 2 floor
+[18.10.2011 00:40:36,308] Human ¹9 has been created on 4 floor, going to 2 floor
+[18.10.2011 00:40:36,308] Human ¹10 has been created on 3 floor, going to 4 floor
+[18.10.2011 00:40:36,308] Human ¹11 has been created on 1 floor, going to 2 floor
+[18.10.2011 00:40:36,323] Human ¹12 has been created on 2 floor, going to 4 floor
+[18.10.2011 00:40:36,324] Human ¹13 has been created on 4 floor, going to 3 floor
+[18.10.2011 00:40:36,324] Human ¹14 has been created on 1 floor, going to 2 floor
+[18.10.2011 00:40:36,324] Human ¹15 has been created on 1 floor, going to 4 floor
+[18.10.2011 00:40:36,325] Human ¹16 has been created on 1 floor, going to 3 floor
+[18.10.2011 00:40:36,325] Human ¹17 has been created on 1 floor, going to 2 floor
+[18.10.2011 00:40:36,326] Human ¹18 has been created on 3 floor, going to 2 floor
+[18.10.2011 00:40:36,326] Human ¹19 has been created on 4 floor, going to 3 floor
+[18.10.2011 00:40:36,347] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[18.10.2011 00:40:36,445] Human ¹6  has entered into the lift
+[18.10.2011 00:40:36,648] Human ¹7  has entered into the lift
+[18.10.2011 00:40:36,931] Human ¹11  has entered into the lift
+[18.10.2011 00:40:37,237] Human ¹14  has entered into the lift
+[18.10.2011 00:40:37,459] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[18.10.2011 00:40:37,566] Human ¹11 left the lift
+[18.10.2011 00:40:37,668] Human ¹14 left the lift
+[18.10.2011 00:40:37,914] Human ¹3  has entered into the lift
+[18.10.2011 00:40:38,240] Human ¹5  has entered into the lift
+[18.10.2011 00:40:38,363] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[18.10.2011 00:40:38,471] Human ¹3 left the lift
+[18.10.2011 00:40:38,668] Human ¹1  has entered into the lift
+[18.10.2011 00:40:38,797] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[18.10.2011 00:40:38,851] Human ¹5 left the lift
+[18.10.2011 00:40:39,125] Human ¹6 left the lift
+[18.10.2011 00:40:39,372] Human ¹7 left the lift
+[18.10.2011 00:40:39,416] Human ¹0  has entered into the lift
+[18.10.2011 00:40:39,522] Human ¹2  has entered into the lift
+[18.10.2011 00:40:39,784] Human ¹8  has entered into the lift
+[18.10.2011 00:40:39,956] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[18.10.2011 00:40:40,096] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[18.10.2011 00:40:40,391] Human ¹0 left the lift
+[18.10.2011 00:40:40,624] Human ¹1 left the lift
+[18.10.2011 00:40:41,058] Human ¹2 left the lift
+[18.10.2011 00:40:41,319] Human ¹8 left the lift
+[18.10.2011 00:40:41,367] Human ¹12  has entered into the lift
+[18.10.2011 00:40:41,484] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[18.10.2011 00:40:41,580] Human ¹15  has entered into the lift
+[18.10.2011 00:40:41,729] Human ¹16  has entered into the lift
+[18.10.2011 00:40:41,939] Human ¹17  has entered into the lift
+[18.10.2011 00:40:42,076] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[18.10.2011 00:40:42,390] Human ¹17 left the lift
+[18.10.2011 00:40:42,511] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[18.10.2011 00:40:42,661] Human ¹16 left the lift
+[18.10.2011 00:40:42,808] Human ¹4  has entered into the lift
+[18.10.2011 00:40:43,006] Human ¹10  has entered into the lift
+[18.10.2011 00:40:43,127] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[18.10.2011 00:40:43,361] Human ¹4 left the lift
+[18.10.2011 00:40:43,655] Human ¹10 left the lift
+[18.10.2011 00:40:44,093] Human ¹12 left the lift
+[18.10.2011 00:40:44,496] Human ¹15 left the lift
+[18.10.2011 00:40:44,542] Human ¹9  has entered into the lift
+[18.10.2011 00:40:44,639] Human ¹13  has entered into the lift
+[18.10.2011 00:40:44,794] Human ¹19  has entered into the lift
+[18.10.2011 00:40:44,910] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[18.10.2011 00:40:45,148] Human ¹13 left the lift
+[18.10.2011 00:40:45,400] Human ¹19 left the lift
+[18.10.2011 00:40:45,496] Human ¹18  has entered into the lift
+[18.10.2011 00:40:45,613] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[18.10.2011 00:40:46,222] Human ¹9 left the lift
+[18.10.2011 00:40:46,733] Human ¹18 left the lift
+[18.10.2011 00:40:46,741] ----------- Simulation is finished. Elapsed time: 10.393 sec ------------------
+[18.10.2011 00:41:04,897] ************************* Application is closed ******************************
+[09.11.2011 13:23:38,301] ************************** Application started *******************************
+[09.11.2011 13:23:46,781] --------------------------- Simulation started ----------------------------
+[09.11.2011 13:23:46,808] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[09.11.2011 13:23:46,848] Human ¹0 has been created on 1 floor, going to 2 floor
+[09.11.2011 13:23:46,871] Human ¹1 has been created on 2 floor, going to 4 floor
+[09.11.2011 13:23:46,872] Human ¹2 has been created on 2 floor, going to 4 floor
+[09.11.2011 13:23:46,872] Human ¹3 has been created on 3 floor, going to 2 floor
+[09.11.2011 13:23:46,873] Human ¹4 has been created on 1 floor, going to 3 floor
+[09.11.2011 13:23:46,874] Human ¹5 has been created on 3 floor, going to 4 floor
+[09.11.2011 13:23:46,875] Human ¹6 has been created on 4 floor, going to 3 floor
+[09.11.2011 13:23:46,875] Human ¹7 has been created on 1 floor, going to 3 floor
+[09.11.2011 13:23:46,876] Human ¹8 has been created on 3 floor, going to 1 floor
+[09.11.2011 13:23:46,876] Human ¹9 has been created on 1 floor, going to 2 floor
+[09.11.2011 13:23:46,876] Human ¹10 has been created on 3 floor, going to 1 floor
+[09.11.2011 13:23:46,876] Human ¹11 has been created on 2 floor, going to 1 floor
+[09.11.2011 13:23:46,877] Human ¹12 has been created on 2 floor, going to 3 floor
+[09.11.2011 13:23:46,877] Human ¹13 has been created on 3 floor, going to 1 floor
+[09.11.2011 13:23:46,877] Human ¹14 has been created on 2 floor, going to 4 floor
+[09.11.2011 13:23:46,878] Human ¹15 has been created on 1 floor, going to 2 floor
+[09.11.2011 13:23:46,878] Human ¹16 has been created on 4 floor, going to 1 floor
+[09.11.2011 13:23:46,878] Human ¹17 has been created on 2 floor, going to 1 floor
+[09.11.2011 13:23:46,879] Human ¹18 has been created on 4 floor, going to 1 floor
+[09.11.2011 13:23:46,879] Human ¹19 has been created on 4 floor, going to 2 floor
+[09.11.2011 13:23:46,884] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[09.11.2011 13:23:46,999] Human ¹0  has entered into the lift
+[09.11.2011 13:23:47,114] Human ¹4  has entered into the lift
+[09.11.2011 13:23:47,309] Human ¹7  has entered into the lift
+[09.11.2011 13:23:47,549] Human ¹9  has entered into the lift
+[09.11.2011 13:23:47,819] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[09.11.2011 13:23:48,099] Human ¹0 left the lift
+[09.11.2011 13:23:48,208] Human ¹9 left the lift
+[09.11.2011 13:23:48,315] Human ¹1  has entered into the lift
+[09.11.2011 13:23:48,638] Human ¹2  has entered into the lift
+[09.11.2011 13:23:48,759] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[09.11.2011 13:23:48,914] Human ¹4 left the lift
+[09.11.2011 13:23:49,058] Human ¹7 left the lift
+[09.11.2011 13:23:49,159] Human ¹3  has entered into the lift
+[09.11.2011 13:23:49,317] Human ¹5  has entered into the lift
+[09.11.2011 13:23:49,435] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[09.11.2011 13:23:49,640] Human ¹1 left the lift
+[09.11.2011 13:23:49,732] Human ¹2 left the lift
+[09.11.2011 13:23:49,928] Human ¹5 left the lift
+[09.11.2011 13:23:49,973] Human ¹6  has entered into the lift
+[09.11.2011 13:23:50,132] Human ¹16  has entered into the lift
+[09.11.2011 13:23:50,351] Human ¹18  has entered into the lift
+[09.11.2011 13:23:50,464] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[09.11.2011 13:23:50,750] Human ¹6 left the lift
+[09.11.2011 13:23:50,793] Human ¹8  has entered into the lift
+[09.11.2011 13:23:50,913] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[09.11.2011 13:23:51,166] Human ¹3 left the lift
+[09.11.2011 13:23:51,278] Human ¹11  has entered into the lift
+[09.11.2011 13:23:51,410] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[09.11.2011 13:23:51,612] Human ¹8 left the lift
+[09.11.2011 13:23:51,803] Human ¹11 left the lift
+[09.11.2011 13:23:51,992] Human ¹16 left the lift
+[09.11.2011 13:23:52,172] Human ¹18 left the lift
+[09.11.2011 13:23:52,217] Human ¹15  has entered into the lift
+[09.11.2011 13:23:52,349] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[09.11.2011 13:23:52,671] Human ¹15 left the lift
+[09.11.2011 13:23:52,713] Human ¹12  has entered into the lift
+[09.11.2011 13:23:52,808] Human ¹14  has entered into the lift
+[09.11.2011 13:23:52,950] Human ¹17  has entered into the lift
+[09.11.2011 13:23:53,063] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[09.11.2011 13:23:53,389] Human ¹12 left the lift
+[09.11.2011 13:23:53,432] Human ¹10  has entered into the lift
+[09.11.2011 13:23:53,628] Human ¹13  has entered into the lift
+[09.11.2011 13:23:53,759] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[09.11.2011 13:23:54,044] Human ¹14 left the lift
+[09.11.2011 13:23:54,156] Human ¹19  has entered into the lift
+[09.11.2011 13:23:54,276] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[09.11.2011 13:23:54,396] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[09.11.2011 13:23:54,717] Human ¹19 left the lift
+[09.11.2011 13:23:54,831] --------- <Turn 13> ----- Lift on the 1 floor ------------
+[09.11.2011 13:23:55,194] Human ¹10 left the lift
+[09.11.2011 13:23:55,463] Human ¹13 left the lift
+[09.11.2011 13:23:55,804] Human ¹17 left the lift
+[09.11.2011 13:23:55,809] ----------- Simulation is finished. Elapsed time: 8.923 sec ------------------
+[09.11.2011 13:23:59,988] --------------------------- Simulation started ----------------------------
+[09.11.2011 13:23:59,988] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[09.11.2011 13:23:59,995] Human ¹0 has been created on 4 floor, going to 2 floor
+[09.11.2011 13:23:59,996] Human ¹1 has been created on 3 floor, going to 4 floor
+[09.11.2011 13:23:59,996] Human ¹2 has been created on 3 floor, going to 2 floor
+[09.11.2011 13:23:59,998] Human ¹3 has been created on 1 floor, going to 4 floor
+[09.11.2011 13:23:59,998] Human ¹4 has been created on 3 floor, going to 1 floor
+[09.11.2011 13:23:59,998] Human ¹5 has been created on 3 floor, going to 1 floor
+[09.11.2011 13:23:59,999] Human ¹6 has been created on 2 floor, going to 3 floor
+[09.11.2011 13:23:59,999] Human ¹7 has been created on 1 floor, going to 4 floor
+[09.11.2011 13:23:59,999] Human ¹8 has been created on 3 floor, going to 4 floor
+[09.11.2011 13:23:59,999] Human ¹9 has been created on 2 floor, going to 1 floor
+[09.11.2011 13:24:00,000] Human ¹10 has been created on 2 floor, going to 3 floor
+[09.11.2011 13:24:00,000] Human ¹11 has been created on 3 floor, going to 4 floor
+[09.11.2011 13:24:00,000] Human ¹12 has been created on 2 floor, going to 3 floor
+[09.11.2011 13:24:00,000] Human ¹13 has been created on 1 floor, going to 3 floor
+[09.11.2011 13:24:00,001] Human ¹14 has been created on 3 floor, going to 4 floor
+[09.11.2011 13:24:00,001] Human ¹15 has been created on 1 floor, going to 4 floor
+[09.11.2011 13:24:00,001] Human ¹16 has been created on 3 floor, going to 4 floor
+[09.11.2011 13:24:00,001] Human ¹17 has been created on 4 floor, going to 2 floor
+[09.11.2011 13:24:00,002] Human ¹18 has been created on 3 floor, going to 4 floor
+[09.11.2011 13:24:00,002] Human ¹19 has been created on 3 floor, going to 1 floor
+[09.11.2011 13:24:00,011] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[09.11.2011 13:24:00,091] Human ¹3  has entered into the lift
+[09.11.2011 13:24:00,183] Human ¹7  has entered into the lift
+[09.11.2011 13:24:00,375] Human ¹13  has entered into the lift
+[09.11.2011 13:24:00,639] Human ¹15  has entered into the lift
+[09.11.2011 13:24:02,129] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[09.11.2011 13:24:03,804] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[09.11.2011 13:24:04,013] Human ¹13 left the lift
+[09.11.2011 13:24:04,238] Human ¹1  has entered into the lift
+[09.11.2011 13:24:04,371] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[09.11.2011 13:24:04,473] Human ¹1 left the lift
+[09.11.2011 13:24:04,900] Human ¹3 left the lift
+[09.11.2011 13:24:06,396] Human ¹7 left the lift
+[09.11.2011 13:24:07,764] Human ¹15 left the lift
+[09.11.2011 13:24:08,093] Human ¹0  has entered into the lift
+[09.11.2011 13:24:08,822] Human ¹17  has entered into the lift
+[09.11.2011 13:24:09,719] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[09.11.2011 13:24:10,848] Human ¹2  has entered into the lift
+[09.11.2011 13:24:12,376] Human ¹4  has entered into the lift
+[09.11.2011 13:24:13,273] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[09.11.2011 13:24:14,882] Human ¹0 left the lift
+[09.11.2011 13:24:16,010] Human ¹2 left the lift
+[09.11.2011 13:24:17,859] Human ¹17 left the lift
+[09.11.2011 13:24:18,188] Human ¹6  has entered into the lift
+[09.11.2011 13:24:18,916] Human ¹9  has entered into the lift
+[09.11.2011 13:24:20,044] Human ¹10  has entered into the lift
+[09.11.2011 13:24:20,941] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[09.11.2011 13:24:21,349] Human ¹4 left the lift
+[09.11.2011 13:24:22,878] Human ¹9 left the lift
+[09.11.2011 13:24:23,780] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[09.11.2011 13:24:24,512] Human ¹12  has entered into the lift
+[09.11.2011 13:24:25,410] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[09.11.2011 13:24:27,342] Human ¹6 left the lift
+[09.11.2011 13:24:28,790] Human ¹10 left the lift
+[09.11.2011 13:24:30,220] ************************* Application is closed ******************************
+[15.11.2011 17:54:13,393] ************************** Application started *******************************
+[15.11.2011 17:54:15,725] --------------------------- Simulation started ----------------------------
+[15.11.2011 17:54:15,727] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[15.11.2011 17:54:15,747] Human ¹0 has been created on 4 floor, going to 3 floor
+[15.11.2011 17:54:15,752] Human ¹1 has been created on 4 floor, going to 1 floor
+[15.11.2011 17:54:15,753] Human ¹2 has been created on 1 floor, going to 3 floor
+[15.11.2011 17:54:15,754] Human ¹3 has been created on 1 floor, going to 3 floor
+[15.11.2011 17:54:15,755] Human ¹4 has been created on 1 floor, going to 3 floor
+[15.11.2011 17:54:15,756] Human ¹5 has been created on 4 floor, going to 3 floor
+[15.11.2011 17:54:15,757] Human ¹6 has been created on 2 floor, going to 4 floor
+[15.11.2011 17:54:15,757] Human ¹7 has been created on 2 floor, going to 3 floor
+[15.11.2011 17:54:15,759] Human ¹8 has been created on 4 floor, going to 3 floor
+[15.11.2011 17:54:15,759] Human ¹9 has been created on 3 floor, going to 4 floor
+[15.11.2011 17:54:15,760] Human ¹10 has been created on 4 floor, going to 2 floor
+[15.11.2011 17:54:15,760] Human ¹11 has been created on 1 floor, going to 2 floor
+[15.11.2011 17:54:15,761] Human ¹12 has been created on 2 floor, going to 3 floor
+[15.11.2011 17:54:15,762] Human ¹13 has been created on 2 floor, going to 3 floor
+[15.11.2011 17:54:15,762] Human ¹14 has been created on 3 floor, going to 1 floor
+[15.11.2011 17:54:15,763] Human ¹15 has been created on 2 floor, going to 1 floor
+[15.11.2011 17:54:15,763] Human ¹16 has been created on 2 floor, going to 1 floor
+[15.11.2011 17:54:15,764] Human ¹17 has been created on 2 floor, going to 3 floor
+[15.11.2011 17:54:15,764] Human ¹18 has been created on 2 floor, going to 1 floor
+[15.11.2011 17:54:15,765] Human ¹19 has been created on 1 floor, going to 2 floor
+[15.11.2011 17:54:15,789] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[15.11.2011 17:54:15,862] Human ¹2  has entered into the lift
+[15.11.2011 17:54:15,998] Human ¹3  has entered into the lift
+[15.11.2011 17:54:16,201] Human ¹4  has entered into the lift
+[15.11.2011 17:54:16,505] Human ¹11  has entered into the lift
+[15.11.2011 17:54:16,620] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[15.11.2011 17:54:16,675] Human ¹11 left the lift
+[15.11.2011 17:54:16,904] Human ¹6  has entered into the lift
+[15.11.2011 17:54:17,017] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[15.11.2011 17:54:17,218] Human ¹2 left the lift
+[15.11.2011 17:54:17,411] Human ¹3 left the lift
+[15.11.2011 17:54:17,593] Human ¹4 left the lift
+[15.11.2011 17:54:17,634] Human ¹9  has entered into the lift
+[15.11.2011 17:54:17,731] Human ¹14  has entered into the lift
+[15.11.2011 17:54:17,846] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[15.11.2011 17:54:17,897] Human ¹6 left the lift
+[15.11.2011 17:54:18,139] Human ¹9 left the lift
+[15.11.2011 17:54:18,180] Human ¹0  has entered into the lift
+[15.11.2011 17:54:18,324] Human ¹1  has entered into the lift
+[15.11.2011 17:54:18,520] Human ¹5  has entered into the lift
+[15.11.2011 17:54:18,635] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[15.11.2011 17:54:18,968] Human ¹0 left the lift
+[15.11.2011 17:54:19,179] Human ¹5 left the lift
+[15.11.2011 17:54:19,293] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[15.11.2011 17:54:19,334] Human ¹7  has entered into the lift
+[15.11.2011 17:54:19,528] Human ¹12  has entered into the lift
+[15.11.2011 17:54:19,658] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[15.11.2011 17:54:19,759] Human ¹1 left the lift
+[15.11.2011 17:54:19,958] Human ¹14 left the lift
+[15.11.2011 17:54:20,049] Human ¹19  has entered into the lift
+[15.11.2011 17:54:20,161] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[15.11.2011 17:54:20,352] Human ¹19 left the lift
+[15.11.2011 17:54:20,443] Human ¹13  has entered into the lift
+[15.11.2011 17:54:20,592] Human ¹15  has entered into the lift
+[15.11.2011 17:54:20,706] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[15.11.2011 17:54:21,108] Human ¹7 left the lift
+[15.11.2011 17:54:21,399] Human ¹12 left the lift
+[15.11.2011 17:54:21,830] Human ¹13 left the lift
+[15.11.2011 17:54:21,942] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[15.11.2011 17:54:21,983] Human ¹8  has entered into the lift
+[15.11.2011 17:54:22,074] Human ¹10  has entered into the lift
+[15.11.2011 17:54:22,191] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[15.11.2011 17:54:22,731] Human ¹8 left the lift
+[15.11.2011 17:54:22,848] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[15.11.2011 17:54:23,082] Human ¹10 left the lift
+[15.11.2011 17:54:23,123] Human ¹16  has entered into the lift
+[15.11.2011 17:54:23,214] Human ¹17  has entered into the lift
+[15.11.2011 17:54:23,407] Human ¹18  has entered into the lift
+[15.11.2011 17:54:23,519] --------- <Turn 13> ----- Lift on the 1 floor ------------
+[15.11.2011 17:54:23,701] Human ¹15 left the lift
+[15.11.2011 17:54:24,022] Human ¹16 left the lift
+[15.11.2011 17:54:24,234] Human ¹18 left the lift
+[15.11.2011 17:54:24,349] --------- <Turn 14> ----- Lift on the 2 floor ------------
+[15.11.2011 17:54:24,462] --------- <Turn 15> ----- Lift on the 3 floor ------------
+[15.11.2011 17:54:25,007] Human ¹17 left the lift
+[15.11.2011 17:54:25,008] ----------- Simulation is finished. Elapsed time: 9.218 sec ------------------
+[15.11.2011 17:54:26,677] ************************* Application is closed ******************************
+[15.11.2011 17:54:31,535] ************************** Application started *******************************
+[15.11.2011 17:54:33,196] ************************* Application is closed ******************************
+[26.01.2012 08:57:00,081] ************************** Application started *******************************
+[26.01.2012 08:57:08,127] --------------------------- Simulation started ----------------------------
+[26.01.2012 08:57:08,143] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[26.01.2012 08:57:08,168] Human ¹0 has been created on 3 floor, going to 1 floor
+[26.01.2012 08:57:08,193] Human ¹1 has been created on 2 floor, going to 1 floor
+[26.01.2012 08:57:08,194] Human ¹2 has been created on 3 floor, going to 4 floor
+[26.01.2012 08:57:08,195] Human ¹3 has been created on 2 floor, going to 4 floor
+[26.01.2012 08:57:08,196] Human ¹4 has been created on 3 floor, going to 1 floor
+[26.01.2012 08:57:08,196] Human ¹5 has been created on 2 floor, going to 1 floor
+[26.01.2012 08:57:08,197] Human ¹6 has been created on 4 floor, going to 2 floor
+[26.01.2012 08:57:08,198] Human ¹7 has been created on 4 floor, going to 1 floor
+[26.01.2012 08:57:08,198] Human ¹8 has been created on 3 floor, going to 2 floor
+[26.01.2012 08:57:08,199] Human ¹9 has been created on 2 floor, going to 3 floor
+[26.01.2012 08:57:08,199] Human ¹10 has been created on 2 floor, going to 4 floor
+[26.01.2012 08:57:08,200] Human ¹11 has been created on 2 floor, going to 1 floor
+[26.01.2012 08:57:08,200] Human ¹12 has been created on 3 floor, going to 4 floor
+[26.01.2012 08:57:08,201] Human ¹13 has been created on 3 floor, going to 1 floor
+[26.01.2012 08:57:08,202] Human ¹14 has been created on 3 floor, going to 4 floor
+[26.01.2012 08:57:08,202] Human ¹15 has been created on 3 floor, going to 2 floor
+[26.01.2012 08:57:08,203] Human ¹16 has been created on 1 floor, going to 3 floor
+[26.01.2012 08:57:08,203] Human ¹17 has been created on 4 floor, going to 3 floor
+[26.01.2012 08:57:08,204] Human ¹18 has been created on 3 floor, going to 2 floor
+[26.01.2012 08:57:08,204] Human ¹19 has been created on 1 floor, going to 4 floor
+[26.01.2012 08:57:08,229] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[26.01.2012 08:57:08,327] Human ¹16  has entered into the lift
+[26.01.2012 08:57:08,502] Human ¹19  has entered into the lift
+[26.01.2012 08:57:08,721] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[26.01.2012 08:57:09,021] Human ¹1  has entered into the lift
+[26.01.2012 08:57:09,344] Human ¹3  has entered into the lift
+[26.01.2012 08:57:09,638] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[26.01.2012 08:57:09,847] Human ¹16 left the lift
+[26.01.2012 08:57:09,893] Human ¹0  has entered into the lift
+[26.01.2012 08:57:10,024] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[26.01.2012 08:57:10,077] Human ¹3 left the lift
+[26.01.2012 08:57:10,286] Human ¹19 left the lift
+[26.01.2012 08:57:10,378] Human ¹6  has entered into the lift
+[26.01.2012 08:57:10,593] Human ¹7  has entered into the lift
+[26.01.2012 08:57:10,716] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[26.01.2012 08:57:10,909] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[26.01.2012 08:57:11,165] Human ¹6 left the lift
+[26.01.2012 08:57:11,313] Human ¹5  has entered into the lift
+[26.01.2012 08:57:11,434] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[26.01.2012 08:57:11,659] Human ¹0 left the lift
+[26.01.2012 08:57:11,810] Human ¹1 left the lift
+[26.01.2012 08:57:12,045] Human ¹5 left the lift
+[26.01.2012 08:57:12,224] Human ¹7 left the lift
+[26.01.2012 08:57:12,346] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[26.01.2012 08:57:12,389] Human ¹9  has entered into the lift
+[26.01.2012 08:57:12,529] Human ¹10  has entered into the lift
+[26.01.2012 08:57:12,676] Human ¹11  has entered into the lift
+[26.01.2012 08:57:12,795] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[26.01.2012 08:57:13,037] Human ¹9 left the lift
+[26.01.2012 08:57:13,079] Human ¹2  has entered into the lift
+[26.01.2012 08:57:13,271] Human ¹4  has entered into the lift
+[26.01.2012 08:57:13,386] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[26.01.2012 08:57:13,675] Human ¹2 left the lift
+[26.01.2012 08:57:13,949] Human ¹10 left the lift
+[26.01.2012 08:57:13,995] Human ¹17  has entered into the lift
+[26.01.2012 08:57:14,126] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[26.01.2012 08:57:14,434] Human ¹17 left the lift
+[26.01.2012 08:57:14,479] Human ¹8  has entered into the lift
+[26.01.2012 08:57:14,580] Human ¹12  has entered into the lift
+[26.01.2012 08:57:14,712] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[26.01.2012 08:57:14,987] Human ¹8 left the lift
+[26.01.2012 08:57:15,101] --------- <Turn 13> ----- Lift on the 1 floor ------------
+[26.01.2012 08:57:15,324] Human ¹4 left the lift
+[26.01.2012 08:57:15,641] Human ¹11 left the lift
+[26.01.2012 08:57:15,802] --------- <Turn 14> ----- Lift on the 2 floor ------------
+[26.01.2012 08:57:15,960] --------- <Turn 15> ----- Lift on the 3 floor ------------
+[26.01.2012 08:57:16,002] Human ¹13  has entered into the lift
+[26.01.2012 08:57:16,146] Human ¹14  has entered into the lift
+[26.01.2012 08:57:16,355] Human ¹15  has entered into the lift
+[26.01.2012 08:57:16,468] --------- <Turn 16> ----- Lift on the 4 floor ------------
+[26.01.2012 08:57:16,786] Human ¹12 left the lift
+[26.01.2012 08:57:17,104] Human ¹14 left the lift
+[26.01.2012 08:57:17,235] --------- <Turn 17> ----- Lift on the 3 floor ------------
+[26.01.2012 08:57:17,331] Human ¹18  has entered into the lift
+[26.01.2012 08:57:17,447] --------- <Turn 18> ----- Lift on the 2 floor ------------
+[26.01.2012 08:57:17,589] Human ¹15 left the lift
+[26.01.2012 08:57:17,868] Human ¹18 left the lift
+[26.01.2012 08:57:17,981] --------- <Turn 19> ----- Lift on the 1 floor ------------
+[26.01.2012 08:57:18,512] Human ¹13 left the lift
+[26.01.2012 08:57:18,513] ----------- Simulation is finished. Elapsed time: 10.283 sec ------------------
+[26.01.2012 08:57:20,295] ************************* Application is closed ******************************
+[26.01.2012 08:58:30,102] ************************** Application started *******************************
+[26.01.2012 09:00:53,983] --------------------------- Simulation started ----------------------------
+[26.01.2012 09:00:53,986] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[26.01.2012 09:00:54,003] Human ¹0 has been created on 4 floor, going to 3 floor
+[26.01.2012 09:00:54,009] Human ¹1 has been created on 3 floor, going to 2 floor
+[26.01.2012 09:00:54,010] Human ¹2 has been created on 2 floor, going to 1 floor
+[26.01.2012 09:00:54,010] Human ¹3 has been created on 2 floor, going to 1 floor
+[26.01.2012 09:00:54,012] Human ¹4 has been created on 1 floor, going to 3 floor
+[26.01.2012 09:00:54,012] Human ¹5 has been created on 3 floor, going to 4 floor
+[26.01.2012 09:00:54,013] Human ¹6 has been created on 3 floor, going to 1 floor
+[26.01.2012 09:00:54,013] Human ¹7 has been created on 1 floor, going to 4 floor
+[26.01.2012 09:00:54,014] Human ¹8 has been created on 3 floor, going to 4 floor
+[26.01.2012 09:00:54,015] Human ¹9 has been created on 4 floor, going to 3 floor
+[26.01.2012 09:00:54,016] Human ¹10 has been created on 3 floor, going to 2 floor
+[26.01.2012 09:00:54,016] Human ¹11 has been created on 3 floor, going to 4 floor
+[26.01.2012 09:00:54,017] Human ¹12 has been created on 3 floor, going to 1 floor
+[26.01.2012 09:00:54,017] Human ¹13 has been created on 1 floor, going to 3 floor
+[26.01.2012 09:00:54,018] Human ¹14 has been created on 2 floor, going to 3 floor
+[26.01.2012 09:00:54,018] Human ¹15 has been created on 4 floor, going to 3 floor
+[26.01.2012 09:00:54,019] Human ¹16 has been created on 2 floor, going to 4 floor
+[26.01.2012 09:00:54,019] Human ¹17 has been created on 4 floor, going to 3 floor
+[26.01.2012 09:00:54,020] Human ¹18 has been created on 3 floor, going to 2 floor
+[26.01.2012 09:00:54,020] Human ¹19 has been created on 3 floor, going to 2 floor
+[26.01.2012 09:00:54,034] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[26.01.2012 09:00:54,117] Human ¹4  has entered into the lift
+[26.01.2012 09:00:54,284] Human ¹7  has entered into the lift
+[26.01.2012 09:00:54,503] Human ¹13  has entered into the lift
+[26.01.2012 09:00:54,803] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[26.01.2012 09:00:55,026] Human ¹2  has entered into the lift
+[26.01.2012 09:00:55,287] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[26.01.2012 09:00:55,493] Human ¹4 left the lift
+[26.01.2012 09:00:56,638] Human ¹13 left the lift
+[26.01.2012 09:00:57,266] Human ¹1  has entered into the lift
+[26.01.2012 09:00:57,653] Human ¹5  has entered into the lift
+[26.01.2012 09:00:57,780] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[26.01.2012 09:00:57,898] Human ¹5 left the lift
+[26.01.2012 09:00:58,102] Human ¹7 left the lift
+[26.01.2012 09:00:58,196] Human ¹0  has entered into the lift
+[26.01.2012 09:00:58,446] Human ¹9  has entered into the lift
+[26.01.2012 09:00:58,664] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[26.01.2012 09:00:58,904] Human ¹0 left the lift
+[26.01.2012 09:00:59,134] Human ¹9 left the lift
+[26.01.2012 09:00:59,227] Human ¹6  has entered into the lift
+[26.01.2012 09:00:59,374] Human ¹8  has entered into the lift
+[26.01.2012 09:00:59,497] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[26.01.2012 09:00:59,758] Human ¹1 left the lift
+[26.01.2012 09:00:59,801] Human ¹3  has entered into the lift
+[26.01.2012 09:01:00,007] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[26.01.2012 09:01:00,395] Human ¹2 left the lift
+[26.01.2012 09:01:01,865] Human ¹3 left the lift
+[26.01.2012 09:01:02,118] Human ¹6 left the lift
+[26.01.2012 09:01:02,231] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[26.01.2012 09:01:02,274] Human ¹14  has entered into the lift
+[26.01.2012 09:01:02,367] Human ¹16  has entered into the lift
+[26.01.2012 09:01:02,482] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[26.01.2012 09:01:03,277] Human ¹14 left the lift
+[26.01.2012 09:01:03,327] Human ¹10  has entered into the lift
+[26.01.2012 09:01:03,519] Human ¹11  has entered into the lift
+[26.01.2012 09:01:03,636] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[26.01.2012 09:01:03,825] Human ¹8 left the lift
+[26.01.2012 09:01:04,614] Human ¹11 left the lift
+[26.01.2012 09:01:04,939] Human ¹16 left the lift
+[26.01.2012 09:01:05,032] Human ¹15  has entered into the lift
+[26.01.2012 09:01:05,175] Human ¹17  has entered into the lift
+[26.01.2012 09:01:05,331] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[26.01.2012 09:01:06,081] Human ¹15 left the lift
+[26.01.2012 09:01:06,426] Human ¹17 left the lift
+[26.01.2012 09:01:06,541] Human ¹12  has entered into the lift
+[26.01.2012 09:01:06,685] Human ¹18  has entered into the lift
+[26.01.2012 09:01:06,949] Human ¹19  has entered into the lift
+[26.01.2012 09:01:07,062] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[26.01.2012 09:01:08,707] Human ¹10 left the lift
+[26.01.2012 09:01:10,022] Human ¹18 left the lift
+[26.01.2012 09:01:10,364] Human ¹19 left the lift
+[26.01.2012 09:01:11,213] --------- <Turn 13> ----- Lift on the 1 floor ------------
+[26.01.2012 09:01:14,739] Human ¹12 left the lift
+[26.01.2012 09:01:14,740] ----------- Simulation is finished. Elapsed time: 20.706 sec ------------------
+[26.01.2012 09:02:07,767] --------------------------- Simulation started ----------------------------
+[26.01.2012 09:02:07,767] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[26.01.2012 09:02:07,780] Human ¹0 has been created on 2 floor, going to 3 floor
+[26.01.2012 09:02:07,781] Human ¹1 has been created on 2 floor, going to 1 floor
+[26.01.2012 09:02:07,781] Human ¹2 has been created on 1 floor, going to 3 floor
+[26.01.2012 09:02:07,782] Human ¹3 has been created on 4 floor, going to 2 floor
+[26.01.2012 09:02:07,782] Human ¹4 has been created on 3 floor, going to 4 floor
+[26.01.2012 09:02:07,783] Human ¹5 has been created on 2 floor, going to 4 floor
+[26.01.2012 09:02:07,783] Human ¹6 has been created on 4 floor, going to 3 floor
+[26.01.2012 09:02:07,783] Human ¹7 has been created on 1 floor, going to 4 floor
+[26.01.2012 09:02:07,784] Human ¹8 has been created on 3 floor, going to 4 floor
+[26.01.2012 09:02:07,784] Human ¹9 has been created on 1 floor, going to 2 floor
+[26.01.2012 09:02:07,785] Human ¹10 has been created on 2 floor, going to 3 floor
+[26.01.2012 09:02:07,785] Human ¹11 has been created on 4 floor, going to 1 floor
+[26.01.2012 09:02:07,786] Human ¹12 has been created on 2 floor, going to 4 floor
+[26.01.2012 09:02:07,786] Human ¹13 has been created on 1 floor, going to 4 floor
+[26.01.2012 09:02:07,786] Human ¹14 has been created on 1 floor, going to 3 floor
+[26.01.2012 09:02:07,787] Human ¹15 has been created on 2 floor, going to 3 floor
+[26.01.2012 09:02:07,787] Human ¹16 has been created on 4 floor, going to 2 floor
+[26.01.2012 09:02:07,788] Human ¹17 has been created on 1 floor, going to 4 floor
+[26.01.2012 09:02:07,788] Human ¹18 has been created on 3 floor, going to 1 floor
+[26.01.2012 09:02:07,789] Human ¹19 has been created on 3 floor, going to 4 floor
+[26.01.2012 09:02:07,793] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[26.01.2012 09:02:08,328] Human ¹2  has entered into the lift
+[26.01.2012 09:02:09,516] Human ¹7  has entered into the lift
+[26.01.2012 09:02:11,362] Human ¹9  has entered into the lift
+[26.01.2012 09:02:13,912] Human ¹13  has entered into the lift
+[26.01.2012 09:02:15,423] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[26.01.2012 09:02:16,749] Human ¹9 left the lift
+[26.01.2012 09:02:18,617] Human ¹0  has entered into the lift
+[26.01.2012 09:02:20,104] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[26.01.2012 09:02:21,420] Human ¹0 left the lift
+[26.01.2012 09:02:24,579] Human ¹2 left the lift
+[26.01.2012 09:02:25,122] Human ¹4  has entered into the lift
+[26.01.2012 09:02:26,980] Human ¹8  has entered into the lift
+[26.01.2012 09:02:28,444] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[26.01.2012 09:02:31,080] Human ¹4 left the lift
+[26.01.2012 09:02:33,588] Human ¹7 left the lift
+[26.01.2012 09:02:36,034] Human ¹8 left the lift
+[26.01.2012 09:02:38,273] Human ¹13 left the lift
+[26.01.2012 09:02:38,809] Human ¹3  has entered into the lift
+[26.01.2012 09:02:39,993] Human ¹6  has entered into the lift
+[26.01.2012 09:02:41,837] Human ¹11  has entered into the lift
+[26.01.2012 09:02:44,326] Human ¹16  has entered into the lift
+[26.01.2012 09:02:45,804] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[26.01.2012 09:02:48,817] Human ¹6 left the lift
+[26.01.2012 09:02:50,011] Human ¹18  has entered into the lift
+[26.01.2012 09:02:51,474] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[26.01.2012 09:02:54,641] Human ¹3 left the lift
+[26.01.2012 09:02:56,367] Human ¹16 left the lift
+[26.01.2012 09:02:56,904] Human ¹1  has entered into the lift
+[26.01.2012 09:02:59,409] Human ¹5  has entered into the lift
+[26.01.2012 09:03:00,882] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[26.01.2012 09:03:03,508] Human ¹1 left the lift
+[26.01.2012 09:03:05,351] Human ¹11 left the lift
+[26.01.2012 09:03:08,383] Human ¹18 left the lift
+[26.01.2012 09:03:08,923] Human ¹14  has entered into the lift
+[26.01.2012 09:03:10,112] Human ¹17  has entered into the lift
+[26.01.2012 09:03:11,585] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[26.01.2012 09:03:13,437] Human ¹10  has entered into the lift
+[26.01.2012 09:03:14,907] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[26.01.2012 09:03:17,839] Human ¹10 left the lift
+[26.01.2012 09:03:22,591] Human ¹14 left the lift
+[26.01.2012 09:03:23,132] Human ¹19  has entered into the lift
+[26.01.2012 09:03:24,593] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[26.01.2012 09:03:27,383] Human ¹5 left the lift
+[26.01.2012 09:03:31,996] Human ¹17 left the lift
+[26.01.2012 09:03:37,779] Human ¹19 left the lift
+[26.01.2012 09:03:39,242] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[26.01.2012 09:03:40,704] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[26.01.2012 09:03:41,242] Human ¹12  has entered into the lift
+[26.01.2012 09:03:42,426] Human ¹15  has entered into the lift
+[26.01.2012 09:03:43,904] --------- <Turn 13> ----- Lift on the 1 floor ------------
+[26.01.2012 09:03:45,370] --------- <Turn 14> ----- Lift on the 2 floor ------------
+[26.01.2012 09:03:46,845] --------- <Turn 15> ----- Lift on the 3 floor ------------
+[26.01.2012 09:03:51,450] Human ¹15 left the lift
+[26.01.2012 09:03:52,921] --------- <Turn 16> ----- Lift on the 4 floor ------------
+[26.01.2012 09:03:59,234] Human ¹12 left the lift
+[26.01.2012 09:03:59,286] ----------- Simulation is finished. Elapsed time: 111.493 sec ------------------
+[26.01.2012 09:05:22,238] ************************* Application is closed ******************************
