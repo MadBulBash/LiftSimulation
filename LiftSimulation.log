@@ -1,0 +1,81 @@
+[28.11.2020 22:47:35,336] ************************** Application started *******************************
+[28.11.2020 22:47:38,872] --------------------------- Simulation started ----------------------------
+[28.11.2020 22:47:38,884] ----------- Lift capacity: 4, humans: 20, floors: 4 -----------
+[28.11.2020 22:47:38,895] Human ¹0 has been created on 2 floor, going to 1 floor
+[28.11.2020 22:47:38,901] Human ¹1 has been created on 2 floor, going to 3 floor
+[28.11.2020 22:47:38,901] Human ¹2 has been created on 4 floor, going to 3 floor
+[28.11.2020 22:47:38,903] Human ¹3 has been created on 4 floor, going to 1 floor
+[28.11.2020 22:47:38,904] Human ¹4 has been created on 1 floor, going to 4 floor
+[28.11.2020 22:47:38,904] Human ¹5 has been created on 2 floor, going to 3 floor
+[28.11.2020 22:47:38,905] Human ¹6 has been created on 4 floor, going to 2 floor
+[28.11.2020 22:47:38,905] Human ¹7 has been created on 1 floor, going to 3 floor
+[28.11.2020 22:47:38,905] Human ¹8 has been created on 4 floor, going to 3 floor
+[28.11.2020 22:47:38,905] Human ¹9 has been created on 1 floor, going to 4 floor
+[28.11.2020 22:47:38,905] Human ¹10 has been created on 1 floor, going to 3 floor
+[28.11.2020 22:47:38,906] Human ¹11 has been created on 1 floor, going to 3 floor
+[28.11.2020 22:47:38,906] Human ¹12 has been created on 2 floor, going to 1 floor
+[28.11.2020 22:47:38,906] Human ¹13 has been created on 1 floor, going to 4 floor
+[28.11.2020 22:47:38,906] Human ¹14 has been created on 4 floor, going to 2 floor
+[28.11.2020 22:47:38,906] Human ¹15 has been created on 1 floor, going to 4 floor
+[28.11.2020 22:47:38,906] Human ¹16 has been created on 3 floor, going to 2 floor
+[28.11.2020 22:47:38,907] Human ¹17 has been created on 4 floor, going to 3 floor
+[28.11.2020 22:47:38,907] Human ¹18 has been created on 4 floor, going to 1 floor
+[28.11.2020 22:47:38,907] Human ¹19 has been created on 3 floor, going to 4 floor
+[28.11.2020 22:47:38,921] --------- <Turn 1> ----- Lift on the 1 floor ------------
+[28.11.2020 22:47:38,994] Human ¹4  has entered into the lift
+[28.11.2020 22:47:39,135] Human ¹7  has entered into the lift
+[28.11.2020 22:47:39,353] Human ¹9  has entered into the lift
+[28.11.2020 22:47:39,662] Human ¹10  has entered into the lift
+[28.11.2020 22:47:39,844] --------- <Turn 2> ----- Lift on the 2 floor ------------
+[28.11.2020 22:47:40,023] --------- <Turn 3> ----- Lift on the 3 floor ------------
+[28.11.2020 22:47:40,283] Human ¹7 left the lift
+[28.11.2020 22:47:40,436] Human ¹10 left the lift
+[28.11.2020 22:47:40,577] Human ¹16  has entered into the lift
+[28.11.2020 22:47:40,879] Human ¹19  has entered into the lift
+[28.11.2020 22:47:41,076] --------- <Turn 4> ----- Lift on the 4 floor ------------
+[28.11.2020 22:47:41,419] Human ¹4 left the lift
+[28.11.2020 22:47:41,650] Human ¹9 left the lift
+[28.11.2020 22:47:41,860] Human ¹19 left the lift
+[28.11.2020 22:47:41,928] Human ¹2  has entered into the lift
+[28.11.2020 22:47:42,164] Human ¹3  has entered into the lift
+[28.11.2020 22:47:42,487] Human ¹6  has entered into the lift
+[28.11.2020 22:47:42,664] --------- <Turn 5> ----- Lift on the 3 floor ------------
+[28.11.2020 22:47:43,127] Human ¹2 left the lift
+[28.11.2020 22:47:43,311] --------- <Turn 6> ----- Lift on the 2 floor ------------
+[28.11.2020 22:47:43,397] Human ¹6 left the lift
+[28.11.2020 22:47:43,710] Human ¹16 left the lift
+[28.11.2020 22:47:43,776] Human ¹0  has entered into the lift
+[28.11.2020 22:47:43,922] Human ¹1  has entered into the lift
+[28.11.2020 22:47:44,233] Human ¹5  has entered into the lift
+[28.11.2020 22:47:44,407] --------- <Turn 7> ----- Lift on the 1 floor ------------
+[28.11.2020 22:47:44,733] Human ¹0 left the lift
+[28.11.2020 22:47:44,965] Human ¹3 left the lift
+[28.11.2020 22:47:45,036] Human ¹11  has entered into the lift
+[28.11.2020 22:47:45,266] Human ¹13  has entered into the lift
+[28.11.2020 22:47:45,448] --------- <Turn 8> ----- Lift on the 2 floor ------------
+[28.11.2020 22:47:45,628] --------- <Turn 9> ----- Lift on the 3 floor ------------
+[28.11.2020 22:47:46,073] Human ¹1 left the lift
+[28.11.2020 22:47:46,425] Human ¹5 left the lift
+[28.11.2020 22:47:47,077] Human ¹11 left the lift
+[28.11.2020 22:47:47,269] --------- <Turn 10> ----- Lift on the 4 floor ------------
+[28.11.2020 22:47:47,630] Human ¹13 left the lift
+[28.11.2020 22:47:47,700] Human ¹8  has entered into the lift
+[28.11.2020 22:47:47,853] Human ¹14  has entered into the lift
+[28.11.2020 22:47:48,088] Human ¹17  has entered into the lift
+[28.11.2020 22:47:48,400] Human ¹18  has entered into the lift
+[28.11.2020 22:47:48,572] --------- <Turn 11> ----- Lift on the 3 floor ------------
+[28.11.2020 22:47:49,297] Human ¹8 left the lift
+[28.11.2020 22:47:49,920] Human ¹17 left the lift
+[28.11.2020 22:47:50,110] --------- <Turn 12> ----- Lift on the 2 floor ------------
+[28.11.2020 22:47:50,482] Human ¹14 left the lift
+[28.11.2020 22:47:50,549] Human ¹12  has entered into the lift
+[28.11.2020 22:47:50,735] --------- <Turn 13> ----- Lift on the 1 floor ------------
+[28.11.2020 22:47:51,184] Human ¹12 left the lift
+[28.11.2020 22:47:51,462] Human ¹18 left the lift
+[28.11.2020 22:47:51,510] Human ¹15  has entered into the lift
+[28.11.2020 22:47:51,692] --------- <Turn 14> ----- Lift on the 2 floor ------------
+[28.11.2020 22:47:51,882] --------- <Turn 15> ----- Lift on the 3 floor ------------
+[28.11.2020 22:47:52,055] --------- <Turn 16> ----- Lift on the 4 floor ------------
+[28.11.2020 22:47:52,625] Human ¹15 left the lift
+[28.11.2020 22:47:52,625] ----------- Simulation is finished. Elapsed time: 13.704 sec ------------------
+[28.11.2020 22:48:12,145] ************************* Application is closed ******************************

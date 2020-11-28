@@ -1,0 +1,22 @@
+[30.09.2011 10:12:32,143] ************************** Application started *******************************
+[30.09.2011 10:12:33,938] Human ¹0 has been created on 1 floor, going to 3 floor
+[30.09.2011 10:12:33,988] Human ¹1 has been created on 4 floor, going to 3 floor
+[30.09.2011 10:12:33,988] Human ¹2 has been created on 1 floor, going to 4 floor
+[30.09.2011 10:12:33,991] Human ¹3 has been created on 1 floor, going to 3 floor
+[30.09.2011 10:12:33,991] Human ¹4 has been created on 3 floor, going to 2 floor
+[30.09.2011 10:12:33,993] Human ¹5 has been created on 4 floor, going to 1 floor
+[30.09.2011 10:12:33,998] Human ¹6 has been created on 4 floor, going to 2 floor
+[30.09.2011 10:12:34,001] Human ¹7 has been created on 4 floor, going to 3 floor
+[30.09.2011 10:12:34,003] Human ¹8 has been created on 2 floor, going to 4 floor
+[30.09.2011 10:12:34,013] Human ¹9 has been created on 2 floor, going to 4 floor
+[30.09.2011 10:12:34,013] Human ¹10 has been created on 3 floor, going to 2 floor
+[30.09.2011 10:12:34,013] Human ¹11 has been created on 2 floor, going to 3 floor
+[30.09.2011 10:12:34,016] Human ¹12 has been created on 4 floor, going to 3 floor
+[30.09.2011 10:12:34,016] Human ¹13 has been created on 3 floor, going to 4 floor
+[30.09.2011 10:12:34,018] Human ¹14 has been created on 3 floor, going to 1 floor
+[30.09.2011 10:12:34,018] Human ¹15 has been created on 4 floor, going to 2 floor
+[30.09.2011 10:12:34,018] Human ¹16 has been created on 4 floor, going to 2 floor
+[30.09.2011 10:12:34,023] Human ¹17 has been created on 2 floor, going to 1 floor
+[30.09.2011 10:12:34,031] Human ¹18 has been created on 4 floor, going to 1 floor
+[30.09.2011 10:12:34,033] Human ¹19 has been created on 3 floor, going to 4 floor
+[30.09.2011 10:12:35,206] ************************* Application is closed ******************************
